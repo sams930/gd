@@ -1,4 +1,8 @@
-hello my name is un kaut kas cits
+meditacijas taimeris
 
-asdfdghhjkasdf 
-
+meditacijas taimeris ir lietotne kura iet cilvēka izvelētais laiks un fonā ir relaxing music.
+lietonē nevajag būt parāk krāšņai lai cilvēks visu laiku tur neskatās.
+taimeri būs 5,10,20,30 min un cilvēka izvelētais laiks.
+taimeris laika beigās atskaņo skaņu, skaņai jābūt mierīgai.
+cilvēks izvēlās laiku 5 min un uzspiežot pogu "start" taimers sakās.
+kad tu palaid lietoni tu redzi pogu "sākt" (poga balta, fons vieglā krāsa) uzspiežot uz pogu parādas izvele 5,10,20,30 min un poga "izvelēties" uz spiežot vienu no pogām sākas taimeris un fonā sāk skanēt relaxing music, uz to ko izvēlejies, beigas atskan zvans kurš iet 10 s un tād parādas atkal poga "sākt". 
